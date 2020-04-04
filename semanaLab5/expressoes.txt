@@ -1,0 +1,6 @@
+[ 5 * ( 20 + 30 ) – 4 ]
+{ 101 , 202 , ( 3 * 100 ) + 3 }
+[ 5 * ( 20 + 30 ) – 4 ] > { 101 , 202 , ( 3 * 100 } + 3 )
+begin ( um dois três ) de oliveira end [ quatro ]
+begin ( um dois três ) de oliveira end [ quatro }
+begin ( um dois três ) de oliveira end ] quatro )
